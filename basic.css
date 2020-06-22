@@ -345,3 +345,8 @@ body {
     border-radius:10px;
     background-color: #900C3F;
 }
+
+.addthis_inline_share_toolbox{
+  margin: auto;
+  text-align: center;
+  display: block;
